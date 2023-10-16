@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 //Duong da o day 
-//liem da o day
+//liem o day
 namespace bt_4
 {
     public partial class Form1 : Form
